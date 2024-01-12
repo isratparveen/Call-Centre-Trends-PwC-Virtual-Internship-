@@ -4,12 +4,12 @@
   # Task
     Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
   # Findings:
-    1. Across all 8 Agent, Average of Speed of answer in seconds ranged from 65.33 to 70.99, where Joe had the highest average speed of answer.
-    ﻿2. Count of Calls and Satisfaction rating are positively correlated with each other. Jim accounted for maximum answered calls.
+    1. Across all 8 Agents, the Average of Speed of answer in seconds ranged from 65.33 to 70.99, where Joe had the highest average speed of answer.
+    ﻿2. Count of Calls and Satisfaction rating are positively correlated with each other. Jim accounted for the maximum number of answered calls.
     3. January Dominates: More Answered than Abandoned Calls, Max Resolved and Pending Cases.
-    4. Count of Calls was highest for Streaming at 1,022, followed by Technical Support and Payment related.
-    ﻿5. Count of Calls dropped from 54 to 27 during its steepest decline between Friday, March 26, 2021 and Wednesday, March 31, 2021.
-    6. At 536, Jim had the highest Talk Duration and was 12.37% higher than Stewart, which had the lowest Talk Duration at 477.
+    4. The count of Calls was highest for Streaming at 1,022, followed by Technical Support and Payment related.
+    ﻿5. Count of Calls dropped from 54 to 27 during its steepest decline between Friday, March 26, 2021, and Wednesday, March 31, 2021.
+    6. At 536, Jim had the highest Talk Duration and was 12.37% higher than Stewart, who had the lowest Talk Duration at 477.
     7. ﻿Streaming accounted for 20.54% of Resolved Calls.
     8. Satisfaction Rating: Avg 3.4, Target 4.
   # Recommendations:
@@ -41,10 +41,10 @@
     Create visualizations to represent HR data, particularly focusing on gender-related KPIs.
   # Findings:
      1. The New Hired Employees are 13.2%.
-     2. The highest number of employees are from age group 20 to 29, followed by 30 to 39.
+     2. The highest number of employees is 20 to 29, followed by 30 to 39.
      3. Currently, the maximum number of employees are in the position of Junior Officer, followed by Senior Officer and Manager.
-     4. After FY20 Promotions, number of employees increase in the position of Junior and Senior Officer, while the number decreases in the position of Manager.
-     5. After FY21 Promotions, number of employees decrease in the position of Junior Officer, while the number increases in the position of Senior Officer & Manager.
+     4. After FY20 Promotions, the number of employees increases in the position of Junior and Senior Officer, while the number decreases in the position of Manager.
+     5. After FY21 Promotions, the number of employees decrease in the position of Junior Officer, while the number increases in the position of Senior Officer & Manager.
   # Recommendations:
     1. Develop targeted HR programs or benefits aimed at the age group of 20 to 29, recognizing it as the largest employee demographic.
     2. Tailor engagement strategies to meet the preferences and needs of employees in the 30 to 39 age group.
@@ -56,7 +56,7 @@
     8. Promote diversity and inclusion initiatives to create an inclusive work environment that caters to employees of different age groups, positions, and backgrounds.
     
 # Conclusion
-  -> The dashboard findings have provided valuable insights into key performance indicators and trends across various domains. Investigating factors influencing speed of answer, leveraging successful practices, and understanding the dynamics of peak performance months like January are crucial steps toward optimizing call center operations. Addressing the steepest decline in call volume and replicating successful practices from high-performing call categories contribute to maintaining service quality.
+  -> The dashboard findings have provided valuable insights into key performance indicators and trends across various domains. Investigating factors influencing the speed of answers, leveraging successful practices, and understanding the dynamics of peak performance months like January are crucial steps toward optimizing call center operations. Addressing the steepest decline in call volume and replicating successful practices from high-performing call categories contribute to maintaining service quality.
   -> In the realm of customer interactions, efforts to enhance security, promote paperless billing, and align charges with satisfaction underscore our commitment to customer-centric strategies. Capitalizing on the popularity of specific services and addressing payment-related discrepancies are key areas for improvement.
   -> The employee-centric recommendations aim to cater to different age groups, foster career growth, and address turnover factors. The establishment of monitoring mechanisms and fostering open communication reflect a commitment to continuous improvement and a diverse, inclusive work environment.
   -> By implementing these recommendations, we strive to not only address current challenges but also proactively position ourselves for sustained success, improved customer satisfaction, and a thriving work environment.
