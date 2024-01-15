@@ -4,7 +4,7 @@
   # Task
     Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
   # Findings:
-    1. Across all 8 Agents, the Average of Speed of answer in seconds ranged from 65.33 to 70.99, where Joe had the highest average speed of answer.
+    1. Across all 8 Agents, the Average Speed of answer in seconds ranged from 65.33 to 70.99, where Joe had the highest average speed of answer.
     ﻿2. Count of Calls and Satisfaction rating are positively correlated with each other. Jim accounted for the maximum number of answered calls.
     3. January Dominates: More Answered than Abandoned Calls, Max Resolved and Pending Cases.
     4. The count of Calls was highest for Streaming at 1,022, followed by Technical Support and Payment related.
@@ -19,6 +19,10 @@
     4. Investigate the reasons behind the steepest decline in call volume between March 26, 2021, and March 31, 2021.
     5. Understand the factors contributing to Streaming's high percentage of resolved calls. Identify and replicate successful practices in other call categories.
     6. Conduct surveys or interviews to gather customer feedback and understand areas for improvement. Implement targeted initiatives to increase the average satisfaction rating toward the target of 4.
+
+<img width="761" alt="CC - 1" src="https://github.com/isratparveen/Call-Centre-Trends-PwC-Virtual-Internship-/assets/88919216/6c833a5b-17e4-420e-9f3f-701f1f6df8d4">
+
+<img width="759" alt="CC - 2" src="https://github.com/isratparveen/Call-Centre-Trends-PwC-Virtual-Internship-/assets/88919216/a05d9540-b1ce-43fa-9c37-96da75381eb4">
 
 # Call Centre Churn Data Analysis
   # Task:
@@ -35,6 +39,8 @@
     3. Offer promotions or discounts for adopting online security tools to enhance customer security.
     4. Implement additional incentives, such as discounts or exclusive offers to encourage more customers to paperless billing.
     5. Implement data-driven strategies to align charges and customer satisfaction.
+
+<img width="709" alt="CC - 3" src="https://github.com/isratparveen/Call-Centre-Trends-PwC-Virtual-Internship-/assets/88919216/09588a69-41c9-44c4-a641-a73d20e5301e">
 
 # Call Centre Diversity and Inclusion
   # Task:
@@ -54,7 +60,9 @@
     6. Establish regular monitoring mechanisms to track the effectiveness of implemented recommendations.
     7. Encourage open communication channels for employees to provide feedback, ensuring continuous improvement.
     8. Promote diversity and inclusion initiatives to create an inclusive work environment that caters to employees of different age groups, positions, and backgrounds.
-    
+
+<img width="800" alt="CC - 4" src="https://github.com/isratparveen/Call-Centre-Trends-PwC-Virtual-Internship-/assets/88919216/d2838946-a6c1-47ac-8c47-2492c27ec429">
+
 # Conclusion
     -> The dashboard findings have provided valuable insights into key performance indicators and trends across various domains. Investigating factors influencing the speed of answers, leveraging successful practices, and understanding the dynamics of peak performance months like January are crucial steps toward optimizing call center operations. Addressing the steepest decline in call volume and replicating successful practices from high-performing call categories contribute to maintaining service quality.
     -> In the realm of customer interactions, efforts to enhance security, promote paperless billing, and align charges with satisfaction underscore our commitment to customer-centric strategies. Capitalizing on the popularity of specific services and addressing payment-related discrepancies are key areas for improvement.
