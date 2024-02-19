@@ -1,4 +1,4 @@
-# Call-Centre-Trends-PwC-Virtual-Internship-
+# Call-Centre-Trends-PwC-Virtual-Internship
 
 # Call Centre Data Analysis
   # Task
